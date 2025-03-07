@@ -1,5 +1,5 @@
 export default function Numbers() {
     return (
-        <div></div>
+        <div>card</div>
     )
 }
