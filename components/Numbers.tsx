@@ -15,7 +15,7 @@ export default function Numbers() {
                     />
                 </div>
                 <div className="h-[448px] w-[580px]">
-                    <div className="p-[8px] flex flex-col justify-center gap-6">
+                    <div className="p-[8px] flex flex-col justify-center gap-4">
                         <h1 className="font-bold tracking-tighter text-green-800">Travelers point</h1>
                         <div className="font-bold text-2xl">We help to explore your dream place</div>
                         <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate accusamus porro cumque error voluptatem facere sit rem dolore eos laudantium voluptas, reiciendis ullam odit nihil delectus vel. Quasi, sed sequi.</p>

@@ -1,8 +1,10 @@
 import React from "react";
-
+import ContactUsSection from "@/components/ContactUsSection";
 
 export default function ContactUsPage() {
-  return <div>
-    
-    contact us</div>;
+    return (
+        <div>
+            <ContactUsSection />
+        </div>
+    );
 }

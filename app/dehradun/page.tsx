@@ -1,12 +1,12 @@
 import React from 'react'
 import WhyChooseAboutUs from '@/components/WhyChooseAboutUs'
 import AboutUsSection from '@/components/AboutUs'
+import DehradunCardCollection from '@/components/DehradunCardCollection'
 
-export default function AboutUsPage() {
+export default function DehradunPage() {
   return (
     <div>
-      <WhyChooseAboutUs />
-      <AboutUsSection />
+        <DehradunCardCollection />
     </div>
   )
 }

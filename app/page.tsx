@@ -1,4 +1,10 @@
 import Numbers from "@/components/Numbers";
+import CardCollection from "@/components/CardCollection";
+import WhyChooseUs from "@/components/WhyChooseUs";
+import TouristAttractions from "@/components/TouristAttractions";
+import VehicleSection from "@/components/VehicleSection";
+import QnASection from "@/components/QnASection";
+import Footer from "@/components/Footer";
 
 export default function Home() {
     return (
@@ -78,6 +84,11 @@ export default function Home() {
                 </div>
             </div>
             <Numbers />
+            <CardCollection />
+            <WhyChooseUs />
+            <TouristAttractions />
+            <VehicleSection />
+            <QnASection />
         </div>
     );
 }
